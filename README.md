@@ -1,5 +1,12 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://github.com/Arsen-Kotsba/Arsen-Kotsba/blob/main/Software-Engineer-Surrounded-by-Programming-Icons_4Xahw.png" width="100"/>
+</div>
 
+## Wazzup Guys 👋
+
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2x3d211eHJvY21ubjU5d3hwcG41NGZvd29mcml5YjhhbHBtZWNwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="100"/>
+</div>
 <!--
 **Arsen-Kotsba/Arsen-Kotsba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
