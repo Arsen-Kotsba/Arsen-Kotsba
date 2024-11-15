@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Arsen-Kotsba/Arsen-Kotsba/blob/main/Software-Engineer-Surrounded-by-Programming-Icons_4Xahw.png" width="100"/>
+  <img src="https://github.com/Arsen-Kotsba/Arsen-Kotsba/blob/main/Software-Engineer-Surrounded-by-Programming-Icons_4Xahw.png" width="200"/>
 </div>
 
 ## Wazzup Guys 👋
