@@ -2,10 +2,13 @@
   <img src="https://github.com/Arsen-Kotsba/Arsen-Kotsba/blob/main/Software-Engineer-Surrounded-by-Programming-Icons_4Xahw.png" width="200"/>
 </div>
 
-## Wazzup Guys 👋
+## Wazzup Guys <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2x3d211eHJvY21ubjU5d3hwcG41NGZvd29mcml5YjhhbHBtZWNwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2x3d211eHJvY21ubjU5d3hwcG41NGZvd29mcml5YjhhbHBtZWNwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="150"/>
+</div>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arsen-Kotsba&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
 **Arsen-Kotsba/Arsen-Kotsba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
